@@ -26,8 +26,8 @@ If a person is detected, the system automatically sends the photo to the user’
 - Telegram Bot API for user notifications
 
 ## Files
-- motion_camera_objectdetection.py is the Python script run through the RaspberryPi terminal to start system.
+- motion_camera_objectdetection.py : Python script run through the RaspberryPi terminal to start system.
     - Includes TensorFlow/OpenCV AI Object Detection setup 
-- ESP8266_WIFImotionSensor.ino is the Arduino script to setup WIFI connection to RaspberryPi and configure Motion Sensor.
+- ESP8266_WIFImotionSensor.ino : Arduino script to setup WIFI connection to RaspberryPi and configure Motion Sensor.
 
 
