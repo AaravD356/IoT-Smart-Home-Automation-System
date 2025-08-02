@@ -25,4 +25,7 @@ If a person is detected, the system automatically sends the photo to the user’
 - TensorFlow Lite and OpenCV for efficient image analysis
 - Telegram Bot API for user notifications
 
+## Files
+- motion_camera_objectdetection.py is the python script run through the RaspberryPi terminal to start system. 
+
 
