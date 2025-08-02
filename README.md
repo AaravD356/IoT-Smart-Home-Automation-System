@@ -29,5 +29,6 @@ If a person is detected, the system automatically sends the photo to the user’
 - motion_camera_objectdetection.py : Python script run through the RaspberryPi terminal to start system.
     - Includes TensorFlow/OpenCV AI Object Detection setup 
 - ESP8266_WIFImotionSensor.ino : Arduino script to setup WIFI connection to RaspberryPi and configure Motion Sensor.
+- TerminalOutputEx.txt : Text file of example output from working script; shows "No person Detected" & "Person Detected" + API Call 
 
 
